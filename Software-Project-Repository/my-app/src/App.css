@@ -61,6 +61,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  border: 5px solid rgb(254, 238, 237);
 }
 
 .settings-icon {
@@ -96,6 +97,7 @@ body {
   color: white;
   font-size: 36px;
   margin-bottom: 15vmin;
+  border: 5px solid rgb(254, 238, 237);
 }
 
 .button-container {
@@ -118,6 +120,7 @@ body {
   text-decoration: none;
   padding: 10px 20px;
   transition: background-color 0.3s ease;
+  border: 5px solid rgb(254, 238, 237);
 }
 
 .buttonDesign:hover {
